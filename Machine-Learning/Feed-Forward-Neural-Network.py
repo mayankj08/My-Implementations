@@ -19,8 +19,8 @@ from tensorflow.examples.tutorials.mnist import input_data
 mnist = input_data.read_data_sets("/tmp/data/", one_hot=True)
 
 ################################
-Tweak below parameters to change
-behaviour of the neural netowrk
+#Tweak below parameters to change
+#behaviour of the neural netowrk
 ################################
 layer_nodes = [784,256,256,10]
 learning_rate = 0.001
