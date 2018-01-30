@@ -7,4 +7,5 @@ Contains all the codes which I implemented by my own.
 |[Decision Tree](https://en.wikipedia.org/wiki/Decision_tree)|Implementation of Decision Tree|Python3|[Link](Machine-Learning/Decision-Tree.py)|
 |Map Implementation|Implementation of std::map API using skip list|C++|[Link](C++/Map/Map.hpp)|
 |Deque|Implemented Deque in C++ using C syntax|C++|[Link](C++/Deque/Deque.hpp)|
-|Shared Ptr|Shapred Pointer Implementation using reference counting|C++|[Link](C++/SharedPtr/SharedPtr.hpp)|
+|Shared Ptr|Shared Pointer Implementation using reference counting|C++|[Link](C++/Shared-Ptr/SharedPtr.hpp)|
+|ThreadPool|ThreadPool Implementation|C++|[Link](C++/ThreadPool/ThreadPool.hpp)|
