@@ -5,3 +5,6 @@ Contains all the codes which I implemented by my own.
 |---|---|---|---|
 |[Feed Forward Multilayer Perceptron](https://en.wikipedia.org/wiki/Feedforward_neural_network)|Implementation of MLP for MNIST dataset|Python3, Tensorflow|[Link](Machine-Learning/Feed-Forward-Neural-Network.py)|
 |[Decision Tree](https://en.wikipedia.org/wiki/Decision_tree)|Implementation of Decision Tree|Python3|[Link](Machine-Learning/Decision-Tree.py)|
+|Map Implementation|Implementation of std::map API using skip list|C++|[Link](C++/Map/Map.hpp)|
+|Deque|Implemented Deque in C++ using C syntax|C++|[Link](C++/Deque/Deque.hpp)|
+|Shared Ptr|Shapred Pointer Implementation using reference counting|C++|[Link](C++/SharedPtr/SharedPtr.hpp)|
