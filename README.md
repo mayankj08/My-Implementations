@@ -9,3 +9,4 @@ Contains all the codes which I implemented by my own.
 |Deque|Implemented Deque in C++ using C syntax|C++|[Link](C++/Deque/Deque.hpp)|
 |Shared Ptr|Shared Pointer Implementation using reference counting|C++|[Link](C++/Shared-Ptr/SharedPtr.hpp)|
 |ThreadPool|ThreadPool Implementation|C++|[Link](ThreadPool/ThreadPool.h)|
+|CPU Feature Check|Checks if a particular feature is supported by harware or not| C| [Link](cpu_feature_check.c)|
